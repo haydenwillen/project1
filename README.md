@@ -6,3 +6,5 @@ line four
 edited from 'github.com'
 testing fetch
 experimenting on dev branch
+## Notes
+Additional project notes go here.
